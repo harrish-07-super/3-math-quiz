@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	background-color: lightsalmon;
+    bottom: 0;
+	height: 30px;
+	width: 30px;
+	background-size:auto;
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(250, 193, 233);
+border-radius: 10px;
+border-top: 10px solid darkred;
+padding: 10px;
+float: none;
+text-align: left;
+}
